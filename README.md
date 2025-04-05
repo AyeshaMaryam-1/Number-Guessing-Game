@@ -12,3 +12,30 @@ A simple number guessing game built with Python and Streamlit.
 - Three difficulty levels (Easy, Medium, Hard)
 - Tracks your guesses
 - Best score recording
+
+## How to Use
+
+Install requirements:
+```bash
+   pip install streamlit
+```
+Run the app:
+
+```bash
+   streamlit run app.py
+```
+Enter text in the input box
+
+Click "Analyze Text" button
+
+View your text statistics
+
+## Requirements
+
+- Python
+
+- Streamlit
+
+## Author
+
+[Ayesha Maryam]
